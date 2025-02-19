@@ -1,0 +1,7 @@
+C:\Projects\pz#1\bin\Debug\pz#1.exe.config
+C:\Projects\pz#1\bin\Debug\pz#1.exe
+C:\Projects\pz#1\bin\Debug\pz#1.pdb
+C:\Projects\pz#1\obj\Debug\pz#1.csproj.AssemblyReference.cache
+C:\Projects\pz#1\obj\Debug\pz#1.csproj.CoreCompileInputs.cache
+C:\Projects\pz#1\obj\Debug\pz#1.exe
+C:\Projects\pz#1\obj\Debug\pz#1.pdb
